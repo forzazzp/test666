@@ -2,3 +2,4 @@ NO.1
 b add
 a add
 gan1
+gan2
